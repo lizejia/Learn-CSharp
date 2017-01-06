@@ -1,0 +1,5 @@
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe.config
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.pdb

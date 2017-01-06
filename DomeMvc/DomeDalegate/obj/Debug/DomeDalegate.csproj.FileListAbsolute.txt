@@ -1,0 +1,5 @@
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.exe.config
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.pdb
