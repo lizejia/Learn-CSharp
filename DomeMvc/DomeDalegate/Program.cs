@@ -28,6 +28,8 @@ namespace DomeDalegate
 
             Console.WriteLine("***********Test2无返回值的委托****用委托显示包装静态方法**********");
             MyDelegate dstatic = new MyDelegate(SayStatic);
+            dstatic(1832131, "Roman222222");
+            new MyDelegate(SayStatic).Invoke(00000000000000000000,"000000000000000");
             p.CallDelegate(dstatic, 18, "Roman");
 
             Console.WriteLine("***********Test2无返回值的委托****用委托隐示包装实例方法和静态方法**********");
