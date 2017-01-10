@@ -35,7 +35,7 @@ namespace DomeAnonymousMethod
             Console.ReadKey();
         }
         /// <summary>
-        /// 延长外部变量count的声明周期
+        /// 闭包延长外部变量count的声明周期
         /// </summary>
         /// <returns></returns>
         private static CloseDelegate CreatCloseDelegate()
