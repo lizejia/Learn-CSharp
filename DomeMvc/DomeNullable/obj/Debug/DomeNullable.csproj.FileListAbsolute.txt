@@ -1,0 +1,5 @@
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeNullable\bin\Debug\DomeNullable.exe.config
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeNullable\bin\Debug\DomeNullable.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeNullable\bin\Debug\DomeNullable.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeNullable\obj\Debug\DomeNullable.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeNullable\obj\Debug\DomeNullable.pdb
