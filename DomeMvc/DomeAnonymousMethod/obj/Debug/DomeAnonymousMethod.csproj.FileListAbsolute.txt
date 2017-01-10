@@ -1,6 +1,5 @@
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.exe.config
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.pdb
-C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.csprojResolveAssemblyReference.cache
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.pdb

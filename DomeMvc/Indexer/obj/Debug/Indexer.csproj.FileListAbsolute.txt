@@ -3,3 +3,4 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\Indexer\bin\Debug\Indexer.ex
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\Indexer\bin\Debug\Indexer.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\Indexer\obj\Debug\Indexer.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\Indexer\obj\Debug\Indexer.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache

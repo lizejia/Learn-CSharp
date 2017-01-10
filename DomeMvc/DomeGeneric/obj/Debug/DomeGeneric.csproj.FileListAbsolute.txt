@@ -3,4 +3,3 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeGeneric\bin\Debug\DomeGe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeGeneric\bin\Debug\DomeGeneric.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeGeneric\obj\Debug\DomeGeneric.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeGeneric\obj\Debug\DomeGeneric.pdb
-C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeGeneric\obj\Debug\DomeGeneric.csprojResolveAssemblyReference.cache

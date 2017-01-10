@@ -1,0 +1,6 @@
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.exe.config
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.pdb
