@@ -46,3 +46,4 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeMvc\bin\DotNetOpenAuth.O
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeMvc\obj\Debug\DomeMvc.dll
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeMvc\obj\Debug\DomeMvc.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeMvc\obj\Debug\DomeMvc.csprojResolveAssemblyReference.cache
