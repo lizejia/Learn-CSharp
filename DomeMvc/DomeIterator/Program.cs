@@ -13,6 +13,10 @@ namespace DomeIterator
         {
 
             Friends fs = new Friends();
+            //第一步fs调用GetEnumerator()
+            //第二步in调用MoveNext()
+            //第三步Friend返回Current
+            //然后循环第二步和第三步
             foreach (Friend item in fs)
             {
                 Console.WriteLine(item.Name);
