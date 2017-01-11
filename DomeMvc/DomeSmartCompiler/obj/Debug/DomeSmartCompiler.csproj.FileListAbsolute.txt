@@ -1,0 +1,6 @@
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.csprojResolveAssemblyReference.cache
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.exe.config
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.pdb
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.exe
+C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.pdb
