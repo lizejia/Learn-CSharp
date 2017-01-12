@@ -1,0 +1,5 @@
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeCShap4\bin\Debug\DomeCShap4.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeCShap4\bin\Debug\DomeCShap4.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeCShap4\bin\Debug\DomeCShap4.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeCShap4\obj\Debug\DomeCShap4.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeCShap4\obj\Debug\DomeCShap4.pdb

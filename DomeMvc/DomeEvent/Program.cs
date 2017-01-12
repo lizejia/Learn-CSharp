@@ -12,6 +12,9 @@ namespace DomeEvent
     {
         static void Main(string[] args)
         {
+            //从IL看出
+            //+=和-=的本质是调用Delegate.Combine()和Delegate.Remove()方法
+
             #region Dome1test
             Dome1 dome1 = new Dome1();
             OldFriend oldfriend1 = new OldFriend("Tom");
