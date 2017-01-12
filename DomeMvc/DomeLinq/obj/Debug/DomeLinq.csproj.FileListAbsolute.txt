@@ -1,0 +1,6 @@
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\bin\Debug\DomeLinq.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\bin\Debug\DomeLinq.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\bin\Debug\DomeLinq.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\obj\Debug\DomeLinq.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\obj\Debug\DomeLinq.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLinq\obj\Debug\DomeLinq.pdb

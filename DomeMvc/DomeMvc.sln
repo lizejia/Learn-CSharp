@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeLambda", "DomeLambda\Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeExtensionMethods", "DomeAnonymousMethods\DomeExtensionMethods.csproj", "{08A97ED8-6E3A-40D7-9A8F-170A4660FC1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeLinq", "DomeLinq\DomeLinq.csproj", "{3F635E82-A601-4843-B14B-8C0413A9281A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{08A97ED8-6E3A-40D7-9A8F-170A4660FC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A97ED8-6E3A-40D7-9A8F-170A4660FC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A97ED8-6E3A-40D7-9A8F-170A4660FC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F635E82-A601-4843-B14B-8C0413A9281A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F635E82-A601-4843-B14B-8C0413A9281A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F635E82-A601-4843-B14B-8C0413A9281A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F635E82-A601-4843-B14B-8C0413A9281A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
