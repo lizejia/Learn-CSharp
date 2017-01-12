@@ -1,0 +1,6 @@
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\bin\Debug\DomeLambda.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\bin\Debug\DomeLambda.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\bin\Debug\DomeLambda.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\obj\Debug\DomeLambda.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\obj\Debug\DomeLambda.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeLambda\obj\Debug\DomeLambda.pdb

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeMvc", "DomeMvc\DomeMvc.csproj", "{E5B84F7E-D35E-4CD6-AB18-274EA0FB5946}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeMvc.Tests", "DomeMvc.Tests\DomeMvc.Tests.csproj", "{741E8C52-F15F-4CE1-8813-D668162F922F}"
@@ -22,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeIterator", "DomeIterator\DomeIterator.csproj", "{CACAADC2-DDB0-443D-8E7C-668FB5F71B3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeSmartCompiler", "DomeSmartCompiler\DomeSmartCompiler.csproj", "{30BD9771-FBB2-4585-A125-8ED5FF5A71AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeLambda", "DomeLambda\DomeLambda.csproj", "{02268F5A-6C0C-44F5-B729-38068B85DDE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +77,10 @@ Global
 		{30BD9771-FBB2-4585-A125-8ED5FF5A71AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30BD9771-FBB2-4585-A125-8ED5FF5A71AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30BD9771-FBB2-4585-A125-8ED5FF5A71AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02268F5A-6C0C-44F5-B729-38068B85DDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02268F5A-6C0C-44F5-B729-38068B85DDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02268F5A-6C0C-44F5-B729-38068B85DDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02268F5A-6C0C-44F5-B729-38068B85DDE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

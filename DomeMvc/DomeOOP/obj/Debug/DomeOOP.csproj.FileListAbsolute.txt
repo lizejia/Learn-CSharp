@@ -3,3 +3,8 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.ex
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.pdb

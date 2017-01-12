@@ -4,3 +4,8 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeSmartCompiler\bin\Debug\DomeSmartCompiler.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeSmartCompiler\obj\Debug\DomeSmartCompiler.pdb

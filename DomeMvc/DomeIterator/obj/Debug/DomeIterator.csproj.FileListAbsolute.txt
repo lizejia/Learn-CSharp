@@ -4,3 +4,8 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeI
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeIterator\bin\Debug\DomeIterator.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeIterator\obj\Debug\DomeIterator.pdb

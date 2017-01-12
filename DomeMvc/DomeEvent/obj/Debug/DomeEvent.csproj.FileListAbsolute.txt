@@ -3,3 +3,8 @@ C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEven
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.pdb
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.exe
 C:\Users\rl1h\Documents\GitHub\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.pdb
