@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeLinq", "DomeLinq\DomeLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeCShap4", "DomeCShap4\DomeCShap4.csproj", "{3A894669-A028-4FC5-9F11-51F75E768192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeDynamic", "DomeDynamic\DomeDynamic.csproj", "{7CA1767C-3A1C-4A64-BC2F-6D89C2C7DCCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3A894669-A028-4FC5-9F11-51F75E768192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A894669-A028-4FC5-9F11-51F75E768192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A894669-A028-4FC5-9F11-51F75E768192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA1767C-3A1C-4A64-BC2F-6D89C2C7DCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA1767C-3A1C-4A64-BC2F-6D89C2C7DCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA1767C-3A1C-4A64-BC2F-6D89C2C7DCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA1767C-3A1C-4A64-BC2F-6D89C2C7DCCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
