@@ -8,3 +8,8 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMeth
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.pdb
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethod\bin\Debug\DomeAnonymousMethod.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethod\obj\Debug\DomeAnonymousMethod.pdb

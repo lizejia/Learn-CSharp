@@ -12,3 +12,14 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\IronPython.xml
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Dynamic.xml
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Scripting.xml
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\DomeDynamic.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\DomeDynamic.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\DomeDynamic.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\IronPython.xml
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Dynamic.xml
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Scripting.xml
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\obj\Debug\DomeDynamic.csprojResolveAssemblyReference.cache
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\obj\Debug\DomeDynamic.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDynamic\obj\Debug\DomeDynamic.pdb

@@ -8,3 +8,9 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.pdb
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\bin\Debug\DomeEvent.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.csprojResolveAssemblyReference.cache
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeEvent\obj\Debug\DomeEvent.pdb

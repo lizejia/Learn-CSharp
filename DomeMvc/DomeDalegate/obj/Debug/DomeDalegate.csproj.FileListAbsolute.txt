@@ -8,3 +8,9 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.pdb
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\bin\Debug\DomeDalegate.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.csprojResolveAssemblyReference.cache
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeDalegate\obj\Debug\DomeDalegate.pdb

@@ -8,3 +8,9 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.pdb
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\bin\Debug\DomeOOP.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.csprojResolveAssemblyReference.cache
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeOOP\obj\Debug\DomeOOP.pdb

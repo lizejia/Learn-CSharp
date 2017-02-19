@@ -4,3 +4,9 @@ D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethods\bin\Debug\DomeAnonymousMet
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethods\bin\Debug\DomeAnonymousMethods.pdb
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethods\obj\Debug\DomeAnonymousMethods.exe
 D:\Code\Git\Learn-CSharp\DomeMvc\DomeAnonymousMethods\obj\Debug\DomeAnonymousMethods.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\bin\Debug\DomeAnonymousMethods.exe.config
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\bin\Debug\DomeAnonymousMethods.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\bin\Debug\DomeAnonymousMethods.pdb
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\obj\Debug\DomeExtensionMethods.csprojResolveAssemblyReference.cache
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\obj\Debug\DomeAnonymousMethods.exe
+E:\Code\Github\Learn-CSharp\DomeMvc\DomeAnonymousMethods\obj\Debug\DomeAnonymousMethods.pdb

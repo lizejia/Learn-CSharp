@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeDynamic", "DomeDynamic\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeFileOperation", "DomeFileOperation\DomeFileOperation.csproj", "{EAFE3756-F14A-4D63-88A0-780A8F0EC17E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeRecursion", "DomeRecursion\DomeRecursion.csproj", "{DEA4E243-E7AB-4C0F-92A3-78ED234E47B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{EAFE3756-F14A-4D63-88A0-780A8F0EC17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAFE3756-F14A-4D63-88A0-780A8F0EC17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAFE3756-F14A-4D63-88A0-780A8F0EC17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA4E243-E7AB-4C0F-92A3-78ED234E47B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA4E243-E7AB-4C0F-92A3-78ED234E47B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA4E243-E7AB-4C0F-92A3-78ED234E47B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA4E243-E7AB-4C0F-92A3-78ED234E47B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
