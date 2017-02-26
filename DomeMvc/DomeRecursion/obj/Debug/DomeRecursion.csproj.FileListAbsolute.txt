@@ -6,3 +6,6 @@ E:\Code\Github\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.exe
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.pdb
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.Form1.resources
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.csproj.GenerateResource.Cache
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeRecursion\bin\Debug\DomeRecursion.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeRecursion\obj\Debug\DomeRecursion.pdb
