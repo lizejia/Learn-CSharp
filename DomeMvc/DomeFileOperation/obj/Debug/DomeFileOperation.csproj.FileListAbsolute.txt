@@ -4,3 +4,9 @@ E:\Code\Github\Learn-CSharp\DomeMvc\DomeFileOperation\bin\Debug\DomeFileOperatio
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.csprojResolveAssemblyReference.cache
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.exe
 E:\Code\Github\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\bin\Debug\DomeFileOperation.exe.config
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\bin\Debug\DomeFileOperation.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\bin\Debug\DomeFileOperation.pdb
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.exe
+D:\Code\Git\Learn-CSharp\DomeMvc\DomeFileOperation\obj\Debug\DomeFileOperation.pdb
