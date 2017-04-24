@@ -1,0 +1,6 @@
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\bin\Debug\DomeNew.exe.config
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\bin\Debug\DomeNew.exe
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\bin\Debug\DomeNew.pdb
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\obj\Debug\DomeNew.csprojResolveAssemblyReference.cache
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\obj\Debug\DomeNew.exe
+D:\Code\Github\Learn-CSharp\DomeMvc\DomeNew\obj\Debug\DomeNew.pdb
